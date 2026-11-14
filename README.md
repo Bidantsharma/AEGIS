@@ -1,5 +1,6 @@
 # AEGIS
 A privacy-first, premium platform designed to help users discover, document, and securely request the removal of unauthorized or leaked images from the internet.
+   https://aegis-privacy-platfo-ulz9.bolt.host
 # 🛡️ Aegis: Privacy & Digital Footprint Protection Platform
 
 Aegis is a premium, privacy-first web platform built to help victims of unauthorized or leaked media track, document, and remove their images from the internet. Designed with a trustworthy cybersecurity aesthetic, Aegis combines local cryptographic fingerprinting with automated legal takedown workflows.
